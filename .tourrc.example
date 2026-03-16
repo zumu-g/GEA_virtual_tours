@@ -1,0 +1,8 @@
+{
+  "kuula_api_key": "YOUR_KUULA_API_KEY",
+  "cubicasa_api_key": "YOUR_CUBICASA_API_KEY",
+
+  "youtube_client_id": "",
+  "youtube_client_secret": "",
+  "youtube_refresh_token": ""
+}
